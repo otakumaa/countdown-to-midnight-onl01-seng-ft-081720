@@ -9,3 +9,5 @@ def countdown(integer)
 end
  
  countdown(10)
+ 
+ countdown_with_sleep()
